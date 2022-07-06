@@ -1,0 +1,3 @@
+UPPM_PKG_VER='1.18'
+UPPM_PKG_SHA='70bb4a066997535e346c8bfa3e0dfe250d61100b17ccc5676274642447834969'
+UPPM_PKG_URL='https://dl.google.com/go/go1.18.darwin-amd64.tar.gz'
