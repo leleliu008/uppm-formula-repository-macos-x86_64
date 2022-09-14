@@ -1,0 +1,5 @@
+summary: Small build system for use with gyp or CMake
+webpage: https://ninja-build.org/
+version: 1.10.2
+bin-url: https://github.com/ninja-build/ninja/releases/download/v1.10.2/ninja-mac.zip
+bin-sha: 6fa359f491fac7e5185273c6421a000eea6a2f0febf0ac03ac900bd4d80ed2a5

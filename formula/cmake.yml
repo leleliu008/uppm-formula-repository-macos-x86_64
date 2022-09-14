@@ -1,0 +1,5 @@
+summary: a cross-platform build-generator tool
+webpage: https://cmake.org/
+version: 3.21.4
+bin-url: https://github.com/Kitware/CMake/releases/download/v3.21.4/cmake-3.21.4-macos-universal.tar.gz
+bin-sha: f818a10fe625b215e31d0c29c19a6563fb5f51ed7cc7727e5011626c11ea321a
