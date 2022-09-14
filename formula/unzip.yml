@@ -1,0 +1,5 @@
+summary: Extraction utility for .zip compressed archives
+webpage: https://infozip.sourceforge.io/UnZip.html
+version: 6.0.26
+bin-url: https://raw.githubusercontent.com/leleliu008/ppkg-core-macos-x86_64/master/unzip-6.0.26-macos-x86_64.tar.xz
+bin-sha: b8df97839e31d590a8f74fa48de609b102b99cd4d782339f9b29160f34866685
