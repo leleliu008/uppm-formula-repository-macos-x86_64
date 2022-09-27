@@ -1,0 +1,5 @@
+summary: Distributed revision control system
+webpage: https://git-scm.com
+version: 2.36.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.09.26/git-2.36.1-macos-x86_64.tar.xz
+bin-sha: 1405488cda4fcd42e8d41fabb8114877a5437410434dbb3420f9f0f1f4b39224

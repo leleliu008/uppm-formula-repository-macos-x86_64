@@ -1,0 +1,5 @@
+summary: Light UNIX download accelerator
+webpage: https://github.com/axel-download-accelerator/axel.git
+version: 2.17.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.09.26/axel-2.17.11-macos-x86_64.tar.xz
+bin-sha: 5b65c09f709e208a579e98ee910141368acb20f009e2a2665d7633a286d08ab4

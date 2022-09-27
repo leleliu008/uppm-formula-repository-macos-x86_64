@@ -1,5 +1,5 @@
 summary: Display directories as trees (with optional color/HTML output)
 webpage: http://mama.indstate.edu/users/ice/tree
-version: 2.0.2
-bin-url: https://raw.githubusercontent.com/leleliu008/ppkg-core-macos-x86_64/master/tree-2.0.2-macos-x86_64.tar.xz
-bin-sha: ab4c15f83fa178c180879bac4bc2955659006ef34c38e8c0f54dfa088df01113
+version: 2.0.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.09.26/tree-2.0.4-macos-x86_64.tar.xz
+bin-sha: bbe4ae5c01ba566bc5dd2fafd704cba59209f32b231342952067a1a5f470ed6b

@@ -1,0 +1,5 @@
+summary: Configurable static site generator
+webpage: https://gohugo.io
+version: 0.101.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.09.26/hugo-0.101.0-macos-x86_64.tar.xz
+bin-sha: a12097d4dc0f2a6d77f95728f666b1211f7f7a150d637404144cf10e16ad2737

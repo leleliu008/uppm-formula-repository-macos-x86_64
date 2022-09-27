@@ -1,0 +1,5 @@
+summary: Utility that provides fast incremental file transfer
+webpage: https://rsync.samba.org/
+version: 3.2.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.09.26/rsync-3.2.6-macos-x86_64.tar.xz
+bin-sha: 175b71f5d95423ab4a727a14ee5a480efd52dd23b9bf0945a052be256dddf46c
