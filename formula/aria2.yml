@@ -1,5 +1,5 @@
 summary: Download with resuming and segmented downloading
 webpage: https://aria2.github.io
 version: 1.36.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.09.26/aria2-1.36.0-macos-x86_64.tar.xz
-bin-sha: 15f4b15db5bc0c51b05a181c534e59db53caaa242db5f6185b7333c718ecd6ae
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.11.08/aria2-1.36.0-macos-x86_64.tar.xz
+bin-sha: c29ee9c324788b1764ce257bc9fb1dad33b8804821ba149a2569691b5f5b3dfc

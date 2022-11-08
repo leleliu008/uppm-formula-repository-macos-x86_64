@@ -1,0 +1,5 @@
+summary: Portable version of NetBSD make(1)
+webpage: https://www.crufty.net/help/sjg/bmake.html
+version: 20220909
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.11.08/bmake-20220909-macos-x86_64.tar.xz
+bin-sha: 46c178e8035a23f236ff9f9e9ed667437239c1818b07b06b1876501b2059ec63

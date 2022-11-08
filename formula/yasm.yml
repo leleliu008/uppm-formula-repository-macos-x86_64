@@ -1,5 +1,5 @@
 summary: Yet another assembler, a complete reimplementation of NASM
 webpage: https://yasm.tortall.net
 version: 1.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.09.26/yasm-1.3.0-macos-x86_64.tar.xz
-bin-sha: 188a0eac289e1fe64201655d4c66900c7b44483f7b0a43c81833e184ae925187
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.11.08/yasm-1.3.0-macos-x86_64.tar.xz
+bin-sha: fcddc3caa55cb8c7045b8eb42d471bb7fc3f13ba403ac43ecd7ba45de939d059

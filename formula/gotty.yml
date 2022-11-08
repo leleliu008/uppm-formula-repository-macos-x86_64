@@ -1,5 +1,5 @@
 summary: Share your terminal as a web application
 webpage: https://github.com/sorenisanerd/gotty.git
 version: 1.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.09.26/gotty-1.3.0-macos-x86_64.tar.xz
-bin-sha: 151a5877b52399cbf8f945f1a5dd06a505af36a6c38f2cc0a82d7fdbcdf44f06
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.11.08/gotty-1.3.0-macos-x86_64.tar.xz
+bin-sha: cb330e38b10eeb055352a74e8c424f864263bb6eba5ecda3c7906cd82ee4040f
