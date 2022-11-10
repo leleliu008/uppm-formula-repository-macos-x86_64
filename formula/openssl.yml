@@ -1,5 +1,5 @@
 summary: Cryptography and SSL/TLS Toolkit
 webpage: https://www.openssl.org/
 version: 3.0.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.11.08/openssl-3.0.5-macos-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.11.10/openssl-3.0.5-macos-x86_64.tar.xz
 bin-sha: 3ab87092ef290418880b246281d007fddeda6287002ae410b6e160124d40a945

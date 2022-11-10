@@ -1,5 +1,5 @@
 summary: Parallel gzip
 webpage: https://zlib.net/pigz/
 version: 2.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.11.08/pigz-2.7-macos-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.11.10/pigz-2.7-macos-x86_64.tar.xz
 bin-sha: 1277306fb4700f147527081a2c00462efe0aaa75666c13f822f8f64353e57ccd
