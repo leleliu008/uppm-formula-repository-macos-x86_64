@@ -1,5 +1,5 @@
 summary: PNG image optimizing utility
 webpage: https://pngquant.org
 version: 2.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.12.11/pngquant-2.17.0-macos-x86_64.tar.xz
-bin-sha: 8053a11d01ee56f51e7eec94936359376e68fe1ce77f1a042a96ff21c112de6d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/pngquant-2.17.0-macos10.15-x86_64.tar.xz
+bin-sha: f9353aa6ca335f92047056bcf45ae771d68338500d54baa1527364290fbdfae6

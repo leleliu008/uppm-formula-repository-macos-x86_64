@@ -1,5 +1,5 @@
 summary: Collection of Linux utilities
-webpage: https://github.com/util-linux/util-linux.git
-version: 2.38.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.12.11/util-linux-2.38.1-macos-x86_64.tar.xz
-bin-sha: f8f214860e02a532a27566462cdd8f4151af211ba005c56febbddad73c8f78b8
+webpage: https://github.com/util-linux/util-linux
+version: 2.36
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/util-linux-2.36-macos10.15-x86_64.tar.xz
+bin-sha: 1a7dddf371db97c38abeec529cfee71f9f01d8a88390d0eb4f360d6d1a68c43f

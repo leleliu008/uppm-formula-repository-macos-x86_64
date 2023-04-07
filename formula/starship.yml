@@ -1,5 +1,5 @@
 summary: Cross-shell prompt for astronauts
 webpage: https://starship.rs
-version: 1.10.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-x86_64/releases/download/2022.12.11/starship-1.10.2-macos-x86_64.tar.xz
-bin-sha: 7867639d1ba985119c2106dd4929997206a5375e43aa16e341870b96ff5aaf2e
+version: 1.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/starship-1.11.0-macos10.15-x86_64.tar.xz
+bin-sha: 3fe1e7e8cae28ab14f701ea6041fecccdfbc4becd921c233f4a38a24a438d4d1
