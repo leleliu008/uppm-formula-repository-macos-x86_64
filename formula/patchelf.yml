@@ -1,5 +1,5 @@
 summary: Utility for modifying existing ELF executables and libraries
 webpage: https://github.com/NixOS/patchelf
-version: 0.15.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/patchelf-0.15.0-macos10.15-x86_64.tar.xz
-bin-sha: b2a37c68240f5a62994e85e7259c58724a43ede696b8bc82b3af6a2fb8610ce5
+version: 0.17.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/patchelf-0.17.2-macos10.15-x86_64.tar.xz
+bin-sha: 260ddf7da41d50c207bd7c7a08382483a034bcb00bdd3b0c32b516456c6ff17c
