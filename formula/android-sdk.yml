@@ -4,11 +4,8 @@ version: 7583922
 bin-url: https://dl.google.com/android/repository/commandlinetools-mac-7583922_latest.zip
 bin-sha: 6929a1957f3e71008adfade0cebd08ebea9b9f506aa77f1849c7bdc3418df7cf
 dep-pkg: jdk17
-
+unpackd: cmdline-tools/latest
 install: |
-    install -d cmdline-tools/latest/
-    mv bin lib NOTICE.txt source.properties cmdline-tools/latest/
-
     yes | cmdline-tools/latest/bin/sdkmanager 'platforms;android-30'
     yes | cmdline-tools/latest/bin/sdkmanager 'build-tools;30.0.3'
     yes | cmdline-tools/latest/bin/sdkmanager 'platform-tools'
