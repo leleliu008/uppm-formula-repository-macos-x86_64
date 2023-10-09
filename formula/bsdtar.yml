@@ -2,4 +2,4 @@ summary: BSD tar
 webpage: https://www.libarchive.org/
 version: 3.7.2
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/bsdtar-3.7.2-macos10.15-x86_64.tar.xz
-bin-sha: 9b884dd9038e8b922a7ba14d4dc6de3192a9d03d6aae061225642e4f1b186161
+bin-sha: d6deccc07074671bd962cdf5789f93f4aa1eb34f0df5e81ad8a4f2aaefa1fb11
